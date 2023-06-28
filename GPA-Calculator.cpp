@@ -1,8 +1,4 @@
 // NAME : JUNAID SALEEM
-// REG N0 : 2022243
-// FACULTY : CS
-// CS101-A2-2022243
-// PROGRAM TO CALCULATE GPA AND CGPA
 
 #include <iostream>
 using namespace std;
