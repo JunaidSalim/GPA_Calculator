@@ -1,5 +1,5 @@
 # GPA-Calculator
-Respository for GPA-Calculator program in C++ 
+Repository for GPA-Calculator program in C++ 
 **This is a GPA calculator developed by Junaid Saleem in C++
 
 This is based on following Instructions:
