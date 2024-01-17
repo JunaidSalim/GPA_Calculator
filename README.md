@@ -9,4 +9,4 @@ Input:
 Output:
 1. Compute semester GPA for 1st, 2nd and 3rd Semester
 2. Compute semester CGPA
-3. Display complete results**
+3. Display complete results
