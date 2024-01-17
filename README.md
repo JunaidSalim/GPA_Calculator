@@ -1,7 +1,3 @@
-# GPA-Calculator
-Repository for GPA-Calculator program in C++ 
-**This is a GPA calculator developed by Junaid Saleem in C++
-
 This is based on following Instructions:
 C++ program that calculates the CGPA of students based on her/his total scores in the courses studied in the past 3 semesters.
 
